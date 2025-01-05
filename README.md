@@ -13,16 +13,16 @@ Abstraction
 These principles help in managing complexity in large software systems, making code easier to maintain, extend, and reuse. Additional essential topics, such as Serialization, File Handling, and Exception Handling, are also integral to working with Java OOP concepts effectively.
 
 # Table of Contents
-Classes and Objects
-Encapsulation
-Inheritance
-Polymorphism
-Abstraction
-Access Modifiers
-Constructors
-Method Overloading and Overriding
-Interfaces
-Final Keyword
-Serialization
-File Handling
-Exception Handling
+# Classes and Objects
+# Encapsulation
+# Inheritance
+# Polymorphism
+# Abstraction
+# Access Modifiers
+# Constructors
+# Method Overloading and Overriding
+# Interfaces
+# Final Keyword
+# Serialization
+# File Handling
+# Exception Handling
